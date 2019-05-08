@@ -3,9 +3,9 @@ instalar dependencias con composer despues descargar al proyecto
 
 composer install
 
-hacer migraciones a la base de datos
-
 copiar archivo .env.example
+
+hacer migraciones a la base de datos
 
 php artisan make:migration
 
